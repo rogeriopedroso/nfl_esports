@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-### 🔗 [Clique aqui para ver este projeto ao vivo](https://rogeriopedroso.github.io/nfl_esports/)
+### 🔗 [Clique aqui para ver este projeto ao vivo](https://rogeriopedroso.github.io/nfl_esports/){:target="\_blank" rel="noopener"}
 
 ## ⚙️ Tecnologias
 
